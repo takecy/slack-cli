@@ -1,6 +1,9 @@
 # slack-cli
 Simple command-line client for slack by golang
 
+![](https://img.shields.io/badge/golang-1.5.1-blue.svg?style=flat)
+[![GoDoc](https://godoc.org/github.com/takecy/slack-cli?status.svg)](https://godoc.org/github.com/takecy/slack-cli)
+
 ## Features
 * Post message only
 * Use Incoming Web hook service on slack
